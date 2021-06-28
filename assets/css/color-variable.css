@@ -10,7 +10,8 @@ body{
 
     --dark-bg-color: #272727;
     --light-bg-color: #fff;
-
+    --header-bg-color: radial-gradient(#d4d9db, #d5dade);
+    --header-effect-color: #cdcdcd;
 
     --primary-branding-color: #10AFA0;
     --secondary-branding-color:#2aac9f;
