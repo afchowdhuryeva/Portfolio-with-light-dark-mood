@@ -4,8 +4,9 @@ body{
     --secondary-heading-color: #ce6c6c;
 
 
-    --dark-text-color: #272727;
+    --dark-text-color: #414040;
     --light-text-color: #fff;
+    --content-color:#9c9c9c;
 
 
     --dark-bg-color: #272727;
@@ -14,5 +15,28 @@ body{
     --header-effect-color: #cdcdcd;
 
     --primary-branding-color: #10AFA0;
-    --secondary-branding-color:#2aac9f;
+    --secondary-branding-color:#1c948a;
+
+    --icon-color:#dddddd;
 }                    
+body.dark-mode {
+    --primary-heading-color: rgb(29, 28, 28);
+    --secondary-heading-color: #6cafaa;
+
+
+    --dark-text-color: #121313;
+    --light-text-color: rgb(27, 25, 25);
+    --content-color:#252323;
+
+
+    --dark-bg-color: #272727;
+    --light-bg-color: rgb(161, 168, 131);
+    --header-bg-color: radial-gradient(#668d9c, #1a1e22);
+    --header-effect-color: #3a3838;
+
+    --primary-branding-color: #93d6d6;
+    --secondary-branding-color:#2aac9f;
+    --icon-color:#685858;
+}                    
+    
+                    
